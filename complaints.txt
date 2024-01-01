@@ -1,0 +1,200 @@
+Trespass to Chattel,170000,Oklahoma,Maryland,New Hampshire
+Conversion,155000,Vermont,Kentucky,Alabama
+Equal Protection Challenge,200000,Montana,Montana,Delaware
+Medical Malpractice,185000,Pennsylvania,Kansas,Arkansas
+Trespass to Chattel,125000,Hawaii,Hawaii,Wyoming
+Invasion of Privacy,75000,Washington,Alaska,North Dakota
+Conversion,45000,Oregon,Kentucky,Indiana
+Negligence,135000,New Jersey,Washington,North Dakota
+Battery,95000,Maryland,Arizona,Indiana
+Invasion of Privacy,160000,Pennsylvania,New Mexico,Colorado
+Equal Protection Challenge,145000,Arizona,Arizona,Arizona
+Title IX Workplace Discrimination,85000,Alabama,Vermont,Wyoming
+Medical Malpractice,105000,North Dakota,Iowa,Iowa
+Medical Malpractice,155000,Georgia,Nevada,Nevada
+Equal Protection Challenge,115000,Arizona,Alabama,Vermont
+Fair Labor Standard Act Claim,185000,Colorado,Louisiana,Louisiana
+Equal Protection Challenge,155000,New Jersey,Kansas,Mississippi
+Prisoner Civil Rights Claim,45000,Michigan,Arizona,Alabama
+Invasion of Privacy,90000,Massachusetts,Indiana,Wisconsin
+Private Trespass,170000,Texas,Ohio,Arkansas
+Title IX Workplace Discrimination,190000,South Carolina,Kansas,Montana
+Trespass to Chattel,100000,Colorado,Oklahoma,Arkansas
+Private Trespass,190000,Utah,North Carolina,Connecticut
+Equal Protection Challenge,150000,Wisconsin,Wisconsin,Pennsylvania
+Invasion of Privacy,50000,Wisconsin,Alabama,Alabama
+Fair Labor Standard Act Claim,150000,Montana,Utah,South Dakota
+Negligence,130000,South Carolina,Maryland,New Hampshire
+Private Trespass,170000,Virginia,Maine,Maine
+Trespass to Chattel,155000,Wyoming,Oregon,Oklahoma
+Private Trespass,130000,Nebraska,Connecticut,Connecticut
+Private Trespass,175000,Louisiana,Louisiana,South Dakota
+Prisoner Civil Rights Claim,180000,Kansas,Nevada,West Virginia
+Negligence,180000,Oklahoma,Washington,Maine
+Medical Malpractice,85000,Virginia,Connecticut,Texas
+Invasion of Privacy,55000,Tennessee,Kansas,Kansas
+Equal Protection Challenge,55000,Wisconsin,Wisconsin,Alabama
+Prisoner Civil Rights Claim,80000,Alabama,Mississippi,Vermont
+Conversion,95000,Minnesota,Florida,Kansas
+Conversion,90000,Michigan,New Hampshire,South Carolina
+Private Trespass,55000,Illinois,Illinois,Wyoming
+Private Trespass,75000,Louisiana,Utah,Nevada
+Conversion,125000,North Dakota,New Mexico,Virginia
+Negligence,160000,Oregon,Oregon,Oregon
+Invasion of Privacy,70000,Ohio,Minnesota,Minnesota
+Equal Protection Challenge,60000,Washington,Louisiana,Idaho
+Conversion,45000,Utah,Iowa,Colorado
+Battery,70000,Washington,South Dakota,Nebraska
+Conversion,155000,Florida,Washington,Alabama
+Conversion,175000,West Virginia,South Carolina,South Carolina
+Equal Protection Challenge,65000,Georgia,Oregon,New Mexico
+Private Trespass,140000,Missouri,Massachusetts,Massachusetts
+Conversion,135000,Florida,Vermont,New Hampshire
+Battery,65000,Massachusetts,New Mexico,New Mexico
+Prisoner Civil Rights Claim,50000,Hawaii,Missouri,Delaware
+Private Trespass,165000,Idaho,South Carolina,Michigan
+Private Trespass,165000,Colorado,Massachusetts,Wisconsin
+Battery,40000,Rhode Island,New Hampshire,West Virginia
+Invasion of Privacy,40000,Kansas,Wyoming,Texas
+Equal Protection Challenge,45000,Oklahoma,New Jersey,Kansas
+Invasion of Privacy,140000,Washington,New Hampshire,New Hampshire
+Negligence,155000,Kansas,Maine,Wisconsin
+Trespass to Chattel,180000,South Carolina,Colorado,Alabama
+Negligence,135000,Ohio,Tennessee,Florida
+Battery,185000,Oklahoma,Oklahoma,Ohio
+Trespass to Chattel,130000,Pennsylvania,New York,Wisconsin
+Private Trespass,145000,Louisiana,Missouri,Missouri
+Battery,45000,Connecticut,Vermont,Kentucky
+Fair Labor Standard Act Claim,135000,New Hampshire,Nebraska,Nebraska
+Conversion,70000,Florida,North Carolina,Wisconsin
+Fair Labor Standard Act Claim,90000,North Dakota,North Dakota,North Dakota
+Invasion of Privacy,75000,Georgia,Virginia,Vermont
+Invasion of Privacy,85000,Tennessee,Missouri,Massachusetts
+Trespass to Chattel,65000,Maryland,Missouri,Missouri
+Battery,165000,Virginia,Alabama,New Jersey
+Medical Malpractice,120000,Utah,Rhode Island,North Dakota
+Negligence,160000,Minnesota,Alaska,Alaska
+Title IX Workplace Discrimination,115000,Oregon,Montana,Oregon
+Trespass to Chattel,175000,Alaska,Illinois,Maryland
+Negligence,80000,Tennessee,New Mexico,Pennsylvania
+Trespass to Chattel,95000,Iowa,Kansas,Delaware
+Title IX Workplace Discrimination,105000,Rhode Island,Rhode Island,Wisconsin
+Title IX Workplace Discrimination,170000,Minnesota,Idaho,Maryland
+Invasion of Privacy,75000,Washington,Wyoming,Vermont
+Trespass to Chattel,60000,Minnesota,Mississippi,South Dakota
+Negligence,180000,Hawaii,North Dakota,Colorado
+Negligence,200000,New Mexico,Maryland,New Jersey
+Title IX Workplace Discrimination,150000,Wyoming,Louisiana,Oklahoma
+Conversion,180000,Indiana,Tennessee,Georgia
+Negligence,190000,Massachusetts,Massachusetts,Nevada
+Conversion,140000,Hawaii,Maine,Maine
+Negligence,130000,Wyoming,Wyoming,Kentucky
+Prisoner Civil Rights Claim,155000,Idaho,Massachusetts,Vermont
+Trespass to Chattel,80000,Ohio,Indiana,Oklahoma
+Equal Protection Challenge,195000,Alabama,Idaho,Missouri
+Conversion,185000,Oklahoma,Arkansas,Delaware
+Invasion of Privacy,90000,Nevada,Michigan,Michigan
+Prisoner Civil Rights Claim,40000,Illinois,Illinois,Washington
+Trespass to Chattel,100000,Colorado,Kansas,Tennessee
+Trespass to Chattel,45000,Wisconsin,New Hampshire,New Jersey
+Title IX Workplace Discrimination,150000,Alaska,Hawaii,Vermont
+Prisoner Civil Rights Claim,130000,New Hampshire,New Hampshire,New Hampshire
+Private Trespass,160000,North Dakota,Louisiana,Nebraska
+Negligence,195000,Rhode Island,Rhode Island,Kentucky
+Conversion,145000,Washington,Illinois,Vermont
+Battery,80000,Tennessee,Minnesota,Oregon
+Trespass to Chattel,180000,Mississippi,New Jersey,Georgia
+Prisoner Civil Rights Claim,75000,Florida,Maine,Wyoming
+Title IX Workplace Discrimination,135000,Colorado,Missouri,Nebraska
+Medical Malpractice,160000,New York,Maryland,Maryland
+Battery,120000,Nebraska,Missouri,Louisiana
+Private Trespass,145000,Mississippi,Florida,South Carolina
+Medical Malpractice,175000,Iowa,Wyoming,Louisiana
+Conversion,50000,Missouri,Louisiana,Louisiana
+Trespass to Chattel,190000,Pennsylvania,New Jersey,New Jersey
+Trespass to Chattel,190000,Iowa,California,Wyoming
+Private Trespass,165000,Connecticut,Connecticut,Vermont
+Invasion of Privacy,80000,Tennessee,New York,Pennsylvania
+Private Trespass,100000,Delaware,Michigan,Iowa
+Private Trespass,55000,Hawaii,Maryland,Oklahoma
+Private Trespass,130000,North Dakota,Missouri,Mississippi
+Battery,55000,Wisconsin,New Mexico,Colorado
+Medical Malpractice,60000,Rhode Island,Delaware,Montana
+Battery,165000,New Mexico,Utah,Arkansas
+Negligence,40000,Nevada,Nevada,Texas
+Conversion,190000,Texas,Louisiana,North Dakota
+Prisoner Civil Rights Claim,125000,Idaho,Ohio,Montana
+Battery,90000,Alaska,New Jersey,Michigan
+Conversion,45000,New Mexico,New Mexico,New Jersey
+Medical Malpractice,40000,Texas,North Dakota,Colorado
+Medical Malpractice,130000,Ohio,Ohio,Ohio
+Negligence,65000,Arizona,California,Virginia
+Medical Malpractice,70000,Kentucky,Kentucky,Oregon
+Battery,80000,Michigan,Michigan,Wisconsin
+Negligence,115000,Virginia,Washington,Mississippi
+Private Trespass,185000,Arizona,Michigan,Nevada
+Conversion,75000,Montana,Alabama,Oklahoma
+Battery,50000,Georgia,Virginia,Wyoming
+Fair Labor Standard Act Claim,175000,Delaware,Vermont,South Carolina
+Private Trespass,75000,Ohio,Delaware,South Carolina
+Conversion,80000,Arizona,Alaska,Illinois
+Trespass to Chattel,120000,South Dakota,Mississippi,Mississippi
+Private Trespass,155000,Missouri,Michigan,Michigan
+Negligence,120000,Texas,Utah,Connecticut
+Invasion of Privacy,85000,Maryland,Oregon,Maryland
+Medical Malpractice,65000,Indiana,Arizona,Montana
+Title IX Workplace Discrimination,90000,California,North Carolina,Wisconsin
+Negligence,105000,New York,New York,Missouri
+Prisoner Civil Rights Claim,55000,South Dakota,Wyoming,Missouri
+Negligence,160000,Mississippi,Texas,New Jersey
+Invasion of Privacy,180000,Colorado,Georgia,Nebraska
+Invasion of Privacy,80000,New York,Nevada,Connecticut
+Battery,190000,Illinois,Tennessee,Oregon
+Battery,200000,Alaska,Alaska,Tennessee
+Trespass to Chattel,45000,Tennessee,Nebraska,Nebraska
+Conversion,60000,Oregon,Kansas,Arizona
+Invasion of Privacy,195000,Hawaii,Nebraska,New Jersey
+Conversion,40000,Georgia,Ohio,Virginia
+Negligence,190000,Pennsylvania,Tennessee,Louisiana
+Medical Malpractice,140000,West Virginia,Hawaii,Kansas
+Medical Malpractice,55000,West Virginia,Washington,Tennessee
+Negligence,75000,North Carolina,Michigan,Vermont
+Negligence,155000,Arkansas,Arkansas,Alaska
+Battery,50000,Indiana,Arkansas,Minnesota
+Equal Protection Challenge,95000,Colorado,Delaware,Indiana
+Conversion,160000,Connecticut,New Hampshire,Michigan
+Battery,200000,West Virginia,Montana,Michigan
+Trespass to Chattel,130000,Rhode Island,Connecticut,Connecticut
+Trespass to Chattel,145000,Texas,Arkansas,Arkansas
+Fair Labor Standard Act Claim,175000,New Hampshire,Indiana,Nevada
+Private Trespass,200000,Idaho,Arkansas,Iowa
+Conversion,45000,Rhode Island,New Mexico,North Carolina
+Invasion of Privacy,170000,Iowa,Virginia,North Dakota
+Negligence,110000,Nevada,New Jersey,New Jersey
+Private Trespass,50000,Florida,Indiana,Alabama
+Negligence,135000,Missouri,Michigan,Georgia
+Trespass to Chattel,50000,New Jersey,New Jersey,Kentucky
+Medical Malpractice,125000,Alaska,Arizona,Arizona
+Fair Labor Standard Act Claim,85000,Virginia,Virginia,Vermont
+Conversion,190000,Nebraska,Arkansas,Louisiana
+Trespass to Chattel,95000,Alaska,South Carolina,Louisiana
+Prisoner Civil Rights Claim,175000,Michigan,New Mexico,Missouri
+Private Trespass,105000,Georgia,Montana,Montana
+Private Trespass,75000,Mississippi,Vermont,New Jersey
+Trespass to Chattel,115000,Alabama,Alabama,Wisconsin
+Prisoner Civil Rights Claim,45000,Delaware,Delaware,Delaware
+Equal Protection Challenge,120000,Vermont,Washington,Texas
+Battery,65000,Maine,North Dakota,Pennsylvania
+Trespass to Chattel,155000,Pennsylvania,Alabama,Nevada
+Conversion,65000,Alabama,Hawaii,North Dakota
+Medical Malpractice,145000,Alaska,Maryland,Maryland
+Title IX Workplace Discrimination,130000,Louisiana,Kentucky,Kentucky
+Title IX Workplace Discrimination,175000,Alaska,Alaska,Rhode Island
+Medical Malpractice,55000,Georgia,New Jersey,California
+Medical Malpractice,190000,Wyoming,Wyoming,Wyoming
+Fair Labor Standard Act Claim,65000,Oregon,Utah,Virginia
+Prisoner Civil Rights Claim,165000,Florida,Indiana,Indiana
+Conversion,100000,Texas,Colorado,Virginia
+Medical Malpractice,160000,North Dakota,Vermont,Vermont
+Prisoner Civil Rights Claim,105000,Wyoming,New Jersey,Alaska
+Invasion of Privacy,155000,Rhode Island,Rhode Island,Arizona
